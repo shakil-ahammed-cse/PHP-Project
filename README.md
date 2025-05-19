@@ -16,17 +16,15 @@ A web-based registration system for Computer Science & Engineering department re
 
 ## 🖥️ Screenshots
 
+## 🖥️ Screenshots
+
 | Login Page | Registration Form |
 |------------|-------------------|
-| ![Login](![Login Page](https://github.com/user-attachments/assets/c3a90afc-2504-440f-beee-b86c0bff25b7)
-) | ![Registration](![Register Page](https://github.com/user-attachments/assets/9777d013-f143-4ca0-8d17-8e36831eff61)
-) |
+| ![Login Page](https://github.com/user-attachments/assets/c3a90afc-2504-440f-beee-b86c0bff25b7) | ![Registration Form](https://github.com/user-attachments/assets/9777d013-f143-4ca0-8d17-8e36831eff61) |
 
 | Dashboard | Edit Record |
 |-----------|-------------|
-| ![Dashboard](![Dashboard](https://github.com/user-attachments/assets/75c2e65c-7f98-4ac4-b616-9977e035e806)
-) | ![Edit](![Edit Page](https://github.com/user-attachments/assets/69d565ac-d4a1-4296-96c6-4356ff3eedda)
-) |
+| ![Dashboard](https://github.com/user-attachments/assets/75c2e65c-7f98-4ac4-b616-9977e035e806) | ![Edit Record](https://github.com/user-attachments/assets/69d565ac-d4a1-4296-96c6-4356ff3eedda) |
 
 ## 🛠️ Technologies Used
 
