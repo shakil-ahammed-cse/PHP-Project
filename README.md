@@ -26,25 +26,13 @@ A web-based registration system for Computer Science & Engineering department re
 
 ## 🛠️ Technologies Used
 
-- **Frontend**: 
-  - ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white)
-  - ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white)
+### Frontend
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
   
 - **Backend**: 
   - ![PHP](https://img.shields.io/badge/-PHP-777BB4?logo=php&logoColor=white)
   - ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white)
-
-## 🚀 Installation
-
-```bash
-# Clone the repository
-git clone https://github.com/yourusername/reunion-registration.git
-
-# Move to project directory
-cd reunion-registration
-
-# Set permissions
-chmod -R 755 .
-chown -R www-data:www-data .
 
 
