@@ -16,8 +16,6 @@ A web-based registration system for Computer Science & Engineering department re
 
 ## 🖥️ Screenshots
 
-## 🖥️ Screenshots
-
 | Login Page | Registration Form |
 |------------|-------------------|
 | ![Login Page](https://github.com/user-attachments/assets/c3a90afc-2504-440f-beee-b86c0bff25b7) | ![Registration Form](https://github.com/user-attachments/assets/9777d013-f143-4ca0-8d17-8e36831eff61) |
