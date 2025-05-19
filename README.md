@@ -18,12 +18,15 @@ A web-based registration system for Computer Science & Engineering department re
 
 | Login Page | Registration Form |
 |------------|-------------------|
-| ![Login](![demo](https://github.com/user-attachments/assets/7c3f30e2-ecf9-4389-be95-aab8f7cc6de5)
-) | ![Registration](Screenshot_2025-01-30_130146.png) |
+| ![Login](![Login Page](https://github.com/user-attachments/assets/c3a90afc-2504-440f-beee-b86c0bff25b7)
+) | ![Registration](![Register Page](https://github.com/user-attachments/assets/9777d013-f143-4ca0-8d17-8e36831eff61)
+) |
 
 | Dashboard | Edit Record |
 |-----------|-------------|
-| ![Dashboard](Screenshot_2025-01-30_130242.png) | ![Edit](Screenshot_2025-01-30_130303.png) |
+| ![Dashboard](![Dashboard](https://github.com/user-attachments/assets/75c2e65c-7f98-4ac4-b616-9977e035e806)
+) | ![Edit](![Edit Page](https://github.com/user-attachments/assets/69d565ac-d4a1-4296-96c6-4356ff3eedda)
+) |
 
 ## 🛠️ Technologies Used
 
@@ -47,3 +50,5 @@ cd reunion-registration
 # Set permissions
 chmod -R 755 .
 chown -R www-data:www-data .
+
+
